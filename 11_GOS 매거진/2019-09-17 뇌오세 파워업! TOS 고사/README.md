@@ -6,4 +6,4 @@
 
 ![이미지](./images/tosgosa01.png)
 
-![이미지](./images/tosgosa02.png)
+![이미지](./images/tosgosa02.jpg)
