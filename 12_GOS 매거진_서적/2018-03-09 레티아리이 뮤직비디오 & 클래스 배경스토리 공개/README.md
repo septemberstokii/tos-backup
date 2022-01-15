@@ -6,7 +6,7 @@
 
 **트리오브세이비어 OST - 레티아리이 Theme, Ra Reina / Kevin**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FXusZY55Qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [https://www.youtube.com/embed/5FXusZY55Qc](https://www.youtube.com/embed/5FXusZY55Qc)
 
 &nbsp;
 
