@@ -1,4 +1,4 @@
-![이미지](./images/interest2-00.jpg | width=400)
+![이미지](./images/interest2-00.jpg)
 
 &nbsp;
 
