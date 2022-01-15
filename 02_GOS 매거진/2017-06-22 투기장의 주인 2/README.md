@@ -1,10 +1,10 @@
-![이미지](./images/arena2-00.jpg)
+![이미지](./images/arena2-00.png)
 
 &nbsp;
 
 # 투기장의 주인 2
 
-![이미지](./images/arena2-01.jpg)
+![이미지](./images/arena2-01.png)
 
 ### 투기장의 주인 2
 

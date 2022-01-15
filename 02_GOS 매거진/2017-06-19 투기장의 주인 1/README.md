@@ -4,7 +4,7 @@
 
 # 투기장의 주인
 
-![이미지](./images/arena1-01.jpg)
+![이미지](./images/arena1-01.png)
 
 ### 투기장의 주인
 
@@ -239,7 +239,7 @@
 
 &nbsp;
 
-![이미지](./images/arena1-02.jpg)
+![이미지](./images/arena1-02.png)
 
 ### 올파스 그림(Olfas Grimm), 몽크 마스터.
 
