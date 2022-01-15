@@ -327,7 +327,7 @@
 
 &nbsp;
 
-![이미지](./images/story3-47.png) 
+![이미지](./images/story3-47.jpg) 
 
 저는 3랭크로 전직할 레벨이 되었습니다!
 
