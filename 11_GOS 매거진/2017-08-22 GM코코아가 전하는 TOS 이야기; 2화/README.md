@@ -115,7 +115,7 @@
 
 &nbsp;
 
-![이미지](./images/story2-15.jpg) 
+![이미지](./images/story2-16.jpg) 
 
 따로 할 일의 정체는 무엇일까요.  
 한 번 얄미워 보이기 시작하니 매사가 마음에 안들기 시작하는군요.  
@@ -125,50 +125,50 @@
 
 &nbsp;
 
-![이미지](./images/story2-16.jpg) 
+![이미지](./images/story2-17.jpg) 
 
 그래서 고치고…
 
 &nbsp;
 
-![이미지](./images/story2-17.jpg) 
+![이미지](./images/story2-18.jpg) 
 
 강한 보스 몬스터와
 
 &nbsp;
 
-![이미지](./images/story2-18.jpg) 
+![이미지](./images/story2-19.jpg) 
 
 어딘가 굉장히 아파보이는 보스 몬스터를 처치하면서
 
 &nbsp;
 
-![이미지](./images/story2-19.jpg) 
+![이미지](./images/story2-20.jpg) 
 
 또 고치고
 
 &nbsp;
 
-![이미지](./images/story2-20.jpg) 
+![이미지](./images/story2-21.jpg) 
 
 계속 고칩니다.
 
 &nbsp;
 
-![이미지](./images/story2-21.jpg) 
+![이미지](./images/story2-22.jpg) 
 
 그렇게 광산을 가로질러 달려가다 보면
 
 &nbsp;
 
-![이미지](./images/story2-22.jpg) 
+![이미지](./images/story2-23.jpg) 
 
 바이도타스가 얘기했던 광부 휴게소가 나타납니다.  
 어디 한번 둘러볼까요?
 
 &nbsp;
 
-![이미지](./images/story2-23.jpg) 
+![이미지](./images/story2-24.jpg) 
 
 책장에는 커닝햄의 전설이 꽂혀 있습니다.  
 신수의 날 이후로, 커닝햄과 같은 위대한 영웅들이 얼마나 나타나고 스러져 갔을까요.  
@@ -179,26 +179,26 @@
 
 &nbsp;
 
-![이미지](./images/story2-24.jpg) 
+![이미지](./images/story2-25.jpg) 
 
 광부 휴게소에 이런게 있어도 되는 걸까요?  
 부베가 나타난 이후로 들여온 것일지도 모릅니다.
 
 &nbsp;
 
-![이미지](./images/story2-25.jpg) 
+![이미지](./images/story2-26.jpg) 
 
 그냥 먹을 수 없다면, 방금 전 ‘냄새만 잔뜩 나던 그거’랑 같이 먹으면 좋겠어요.
 
 &nbsp;
 
-![이미지](./images/story2-26.jpg) 
+![이미지](./images/story2-27.jpg) 
 
 2층에서의 볼 일이 끝났으니, 이제 3층으로 갑니다. 폴짝!
 
 &nbsp;
 
-![이미지](./images/story2-27.jpg) 
+![이미지](./images/story2-28.jpg) 
 
 바이도타스가 ‘따로 했던 일’은 무엇이었을까요?  
 새삼스레 저 옷의 목 부분이 잡아당기기 좋게 생긴 것처럼 보입니다.
