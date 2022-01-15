@@ -1,4 +1,4 @@
-![이미지](./images/tower00.jpg)
+![이미지](./images/tower00.png)
 
 &nbsp;
 

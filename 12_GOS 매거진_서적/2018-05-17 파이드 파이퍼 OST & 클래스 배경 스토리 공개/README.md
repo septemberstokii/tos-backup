@@ -1,4 +1,4 @@
-![이미지](./images/pied00.jpg)
+![이미지](./images/pied00.png)
 
 &nbsp;
 
@@ -8,9 +8,7 @@
 
 &nbsp;  
 
-&nbsp;
-
-파이드 파이퍼 마스터의 계약
+**파이드 파이퍼 마스터의 계약**
 
 &nbsp;
 

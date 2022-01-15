@@ -1,4 +1,4 @@
-![이미지](./images/onmyoji00.jpg)
+![이미지](./images/onmyoji00.png)
 
 &nbsp;
 
@@ -7,8 +7,6 @@
 **트리오브세이비어 OST - 음양사 Theme, Heaven on Earth / SFA**
 
 * https://www.youtube.com/watch?v=u90q2viBmoc
-
-&nbsp;
 
 &nbsp;
 

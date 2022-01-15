@@ -1,12 +1,10 @@
-![이미지](./images/exorcist00.jpg)
+![이미지](./images/exorcist00.png)
 
 &nbsp;
 
 # 엑소시스트 클래스 배경 스토리 공개
 
-![이미지](./images/exorcist01.jpg)
-
-&nbsp;
+![이미지](./images/exorcist01.png)
 
 &nbsp;
 
