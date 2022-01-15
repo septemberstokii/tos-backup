@@ -2,7 +2,7 @@
 
 안녕하세요. **GM바이올렛**, **GM비비추**입니다.
 
-![이미지](./img/interest2-01.jpg)
+![이미지](./images/interest2-01.jpg)
 
 구원자님 모두 황금 추석 연휴 즐겁게 보내셨나요?  
 저희는 TOS 모든 이벤트들을 120% 즐기며 행복한 추석 연휴를 보냈답니다.  
@@ -18,7 +18,7 @@
 
 이름하여 **[제 2회 TOS 관심도 테스트!]**
 
-![이미지](./img/interest2-02.gif)
+![이미지](./images/interest2-02.gif)
 
 아&#126;&#126;주 오래 전에 [제 1회 TOS 관심도 테스트]가 진행되었는데요.
 
@@ -31,7 +31,7 @@
 
 그럼~ 시작 해볼까요?
 
-![이미지](./img/interest2-03.png)
+![이미지](./images/interest2-03.png)
 
 &nbsp;
 
@@ -62,7 +62,7 @@
 
 **4. 다음 지문은 왕국 문헌을 발췌한 내용으로 빈 칸에 들어갈 단어로 알맞은 것은 무엇일까요?**
 
-![이미지](./img/interest2-04.png)
+![이미지](./images/interest2-04.png)
 
 ①크리크 &nbsp;&nbsp;&nbsp;② 그에라 &nbsp;&nbsp;&nbsp;③ 우스카 &nbsp;&nbsp;&nbsp;④ 프엥크
 
@@ -85,7 +85,7 @@
 
 **7. 그림자로 가려진 해당 몬스터의 이름은 무엇일까요?**
 
-![이미지](./img/interest2-05.png)
+![이미지](./images/interest2-05.png)
 
 ① 트리암불로 &nbsp;&nbsp;&nbsp;② 우펜트 &nbsp;&nbsp;&nbsp;③ 요노움 &nbsp;&nbsp;&nbsp;④ 이노움
 
@@ -93,7 +93,7 @@
 
 **8. 아래 그림의 코스튬을 착용할 수 있는 클래스는 무엇일까요?**
 
-![이미지](./img/interest2-06.png)
+![이미지](./images/interest2-06.png)
 
 ①카발리스트 &nbsp;&nbsp;&nbsp;② 펜서 &nbsp;&nbsp;&nbsp;③ 세이지 &nbsp;&nbsp;&nbsp;④ 쏘마터지
 
