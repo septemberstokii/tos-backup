@@ -1,4 +1,4 @@
-![이미지](./images/kingdom2-00.jpg)
+![이미지](./images/retiarii00.jpg)
 
 &nbsp;
 
@@ -6,11 +6,7 @@
 
 **트리오브세이비어 OST - 레티아리이 Theme, Ra Reina / Kevin**
 
-* [https://www.youtube.com/watch?v=5FXusZY55Qc](https://www.youtube.com/watch?v=5FXusZY55Qc)
-
-* [https://www.youtube.com/watch?v=5FXusZY55Qc]
-
-* (https://www.youtube.com/watch?v=5FXusZY55Qc)
+* https://www.youtube.com/watch?v=5FXusZY55Qc
 
 &nbsp;
 
